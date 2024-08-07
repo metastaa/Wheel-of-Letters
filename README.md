@@ -10,3 +10,5 @@ For each letter of the alphabet you must find a word related to the given catego
 
 It's fun for everyone but also it can be educational for students.
 
+You can translate and publish. Please don't forget to giving credits.
+
