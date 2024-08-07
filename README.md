@@ -1,4 +1,4 @@
-You can play this game from [itch.i0](https://metast.itch.io/wol). 
+You can play this game from [itch.io](https://metast.itch.io/wol). 
 
 <img width="300" alt="XilxNy" src="https://github.com/user-attachments/assets/9ecd8097-60a9-47f0-8ef8-c64799ed1a43">
 <img width="300" alt="UaNXg6" src="https://github.com/user-attachments/assets/bfe0970a-23d3-440c-88b4-2c4bc4924e39">
